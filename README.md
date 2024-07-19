@@ -1,5 +1,5 @@
 # Encoded_M7P
-Custom addon weapon inspired by the MP7 Sub Machine gun and silencer attachment
+Custom addon weapon inspired by the MP7 Sub Machine gun and silencer attachment and full animation
 
 
 copy and paste into ox_inventory/data/weapons.lua
